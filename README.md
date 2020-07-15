@@ -11,3 +11,4 @@ If you are not familiar with Time Series Analyses, stochastic processes are the 
 
 In this article, we are going to show you the practical implementation on some of those, including AR, ARMA, ARIMA, and SARIMA.
 but i used only  sarima model here
+because Seasonal ARIMA models. ... In a seasonal ARIMA model, seasonal AR and MA terms predict using data values and errors at times with lags that are multiples of S (the span of the seasonality). With monthly data (and S = 12), a seasonal first order autoregressive model would use x t − 12 to predict 
